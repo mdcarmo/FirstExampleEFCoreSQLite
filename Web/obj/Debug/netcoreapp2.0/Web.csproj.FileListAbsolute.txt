@@ -1,0 +1,11 @@
+G:\11-ARTIGOS_BLOG\EFCoreSqlite\font\Personagens\Web\bin\Debug\netcoreapp2.0\Web.deps.json
+G:\11-ARTIGOS_BLOG\EFCoreSqlite\font\Personagens\Web\bin\Debug\netcoreapp2.0\Web.runtimeconfig.json
+G:\11-ARTIGOS_BLOG\EFCoreSqlite\font\Personagens\Web\bin\Debug\netcoreapp2.0\Web.runtimeconfig.dev.json
+G:\11-ARTIGOS_BLOG\EFCoreSqlite\font\Personagens\Web\bin\Debug\netcoreapp2.0\Web.dll
+G:\11-ARTIGOS_BLOG\EFCoreSqlite\font\Personagens\Web\bin\Debug\netcoreapp2.0\Web.pdb
+G:\11-ARTIGOS_BLOG\EFCoreSqlite\font\Personagens\Web\obj\Debug\netcoreapp2.0\Web.csprojResolveAssemblyReference.cache
+G:\11-ARTIGOS_BLOG\EFCoreSqlite\font\Personagens\Web\obj\Debug\netcoreapp2.0\Web.csproj.CoreCompileInputs.cache
+G:\11-ARTIGOS_BLOG\EFCoreSqlite\font\Personagens\Web\obj\Debug\netcoreapp2.0\Web.AssemblyInfoInputs.cache
+G:\11-ARTIGOS_BLOG\EFCoreSqlite\font\Personagens\Web\obj\Debug\netcoreapp2.0\Web.AssemblyInfo.cs
+G:\11-ARTIGOS_BLOG\EFCoreSqlite\font\Personagens\Web\obj\Debug\netcoreapp2.0\Web.dll
+G:\11-ARTIGOS_BLOG\EFCoreSqlite\font\Personagens\Web\obj\Debug\netcoreapp2.0\Web.pdb
